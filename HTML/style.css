@@ -1,0 +1,34 @@
+    *{
+      margin: 0;
+      padding: 0;
+    }
+
+      .navi {
+      background-image: url("/HTML/Schloss_Drachenburg_Bild_1.jpg");
+      background-size: cover; background-repeat: no-repeat; 
+      opacity: 0. ;
+      height: 100vh;
+    }
+
+    header{
+      opacity: 1;
+      background-color: rgb(33, 88, 238);
+    }
+
+    a{
+      color:rgb(0, 0, 0);
+      border: 1mm ridge rgba(0, 0, 3, 0.795);
+    }
+
+    nav{
+      background-color: rgb(83, 55, 241);
+    }
+
+    figure{
+      text-align: center;
+      border: 2mm ridge rgba(233, 14, 14, 0.795)
+    }
+
+    section{
+      text-align: center;
+    }

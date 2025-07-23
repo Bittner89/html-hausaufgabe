@@ -1,0 +1,46 @@
+      /* 
+   Alle Absätze werden lila 
+   und größer dargestellt
+    */
+
+      * {
+        background-color: lightblue;
+      }
+
+      p {
+        color: rgb(55, 0, 255);
+        font-size: larger;
+      }
+
+      h2 {
+        color: darkblue;
+      }
+
+
+
+      #first_music {
+        color: rgb(250, 4, 217);
+        font-weight: bold;
+      }
+
+      #music_list {
+        color: red;
+        font-weight: bold;
+      }
+
+      #film_list {
+        color: blue;
+        font-weight: bold;
+      }
+
+
+      ul {
+        color: darkgreen;
+        /* font-style: italic; */
+      }
+
+      #background {
+        background-image:
+          url(),
+          url("/shared-assets/images/examples/star.png");
+      }
